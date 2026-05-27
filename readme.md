@@ -81,8 +81,7 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 - [RandomGen](https://github.com/ruslanlap/PowerToysRun-RandomGen) - Generate various types of random data.
 - [Hotkeys](https://github.com/ruslanlap/PowerToysRun-Hotkeys) - Find and copy keyboard shortcuts for various applications.
 - [TemplateRunner](https://github.com/Heck-R/PowerToys.Run.Plugin.TemplateRunner) - Use simple commands and scripts as mini plugins.
-- [DiskAnalyzer](https://github.com/thetsaw/PowerToys.Plugin) - Analyze disk space usage by folder.
-- [DiskAnalyzer](https://github.com/thetsaw/PowerToys.Plugin) - Scan folders, find the largest files, and view drive space usage with visual progress bars.
+  - [DiskAnalyzer](https://github.com/thetsaw/PowerToys.Plugin) - Scan folders, find the largest files, and view drive space usage with visual progress bars.
 
 ## Resources
 
